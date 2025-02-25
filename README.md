@@ -1,5 +1,5 @@
 # Futuremind_project
-A FutureMind é uma plataforma que visa democratizar o acesso a sessões de psicanálise, oferecendo uma experiência de qualidade para aqueles que buscam apoio psicológico. Conectamos indivíduos que precisam de suporte emocional a recém-formados em psicologia, criando um espaço onde tanto os clientes quanto os profissionais podem se beneficiar.
+A FutureMind é uma plataforma que visa democratizar o acesso a sessões de psicanálise, oferecendo uma experiência de qualidade para aqueles que buscam apoio psicológico. Conectamos indivíduos que precisam de suporte emocional a profissionais em psicologia, criando um espaço onde tanto os clientes quanto os profissionais podem se beneficiar.
 
 Nosso projeto não apenas facilita o acesso a serviços de psicanálise a preços mais acessíveis, mas também proporciona aos novos psicólogos a oportunidade de ganhar experiência prática e se estabelecerem na profissão. Ao integrar esses profissionais em início de carreira, promovemos um ciclo de aprendizado e crescimento mútuo.
 
